@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
         <ol className="list-inside text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-3">Moin Klaus</li>
+          <li className="mb-2">Moin Klaus!</li>
           <li>Was geht ab?</li>
           <li>Willst du mir helfen?</li>
         </ol>
