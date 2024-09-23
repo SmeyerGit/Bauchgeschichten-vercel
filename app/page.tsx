@@ -1,5 +1,5 @@
 import Image from "next/image";
-import {Table, TableHeader, TableColumn, TableBody, TableRow, TableCell} from "@nextui-org/table";
+import {Table, TableHeader, TableColumn, TableBody, TableRow, TableCell} from "@nextui-org/react";
 
 
 
