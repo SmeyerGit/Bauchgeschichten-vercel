@@ -2,7 +2,8 @@
 import Image from "next/image";
 import Header from './components/header';
 import ImageSlider from './components/image_slider';
-
+import BookingSection from './components/booking_section';
+import Footer from './components/footer';
 const images = [
   'https://via.placeholder.com/800x400?text=Slide+1',
   'https://via.placeholder.com/800x400?text=Slide+2',
@@ -64,6 +65,8 @@ export default function Home() {
     </div>
       <Header />
       <ImageSlider images={images} interval={4000} />
+      <BookingSection />
+      <Footer />
     </div>
   );
 }
