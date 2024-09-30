@@ -2,12 +2,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333;
+    background-color: #ffffff;
     padding: 20px;
   }
   
   .logo h1 {
-    color: white;
+    color: #74b347;
     font-size: 24px;
   }
   
@@ -18,13 +18,13 @@
   }
   
   .nav-links li a {
-    color: white;
+    color: #74b347;
     text-decoration: none;
     font-size: 18px;
   }
   
   .nav-links li a:hover {
-    color: #f0a500;
+    color: #39a52b;
     transition: color 0.3s ease-in-out;
   }
   
